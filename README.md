@@ -16,11 +16,11 @@ I'm a chemist based in Milan, Italy, currently working in product development an
 ---
 
 ## 🔧 Projects (more soon)
-
+<!--
 - 🧷 [GHS Pictogram Tracker](#) – A PowerApps tool to visualize chemical hazard labels (internal use)
 - 💰 [Net Worth Dashboard](#) – Personal finance tracking tool built with PostgreSQL + Streamlit (WIP)
 - ☕ [Coffee Roasting ROI Calculator](#) – Simple model to evaluate cost savings of home roasting
-
+-->
 ➡️ Visit my site at [mrazzini.github.io](https://mrazzini.github.io)
 
 ---
