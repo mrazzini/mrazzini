@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mattia Razzini
+# 👋 Hi, I'm Mattia
 
 🎨 **Research Chemist | Exploring Data Tools | Building Simple Things**
 
@@ -29,14 +29,14 @@ I'm a chemist based in Milan, Italy, currently working in product development an
 
 When I’m not building or testing something, you’ll find me:
 
-- Dialing in espresso and experimenting with coffee roasting  
-- Surfing (or dreaming of surf)  
-- Writing and recording music (metalcore/alternative)  
-- Reading or journaling in multiple languages  
+- Grinding and drinking specialty coffee
+- Surfing (or dreaming of surfing)
+- Playing and recording music (metalcore/alternative)  
+- Playing Zelda on my NS
 
 ---
 
 ## 📫 Let's Connect
 
 - ✉️ [Email](mailto:razzini.mattia@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/mattiarazzini)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mattia-razzini-scientist)
