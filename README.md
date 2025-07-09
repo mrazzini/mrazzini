@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Mattia Razzini
 
-<!--
-**mrazzini/mrazzini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 **Research Chemist | Exploring Data Tools | Building Simple Things**
 
-Here are some ideas to get you started:
+I'm a chemist based in Milan, Italy, currently working in product development and lab-scale formulation in the coatings industry. Over the past few years, I've been increasingly drawn to solving problems not just with chemistry, but with **code**, **dashboards**, and **internal tools** that make workflows more efficient and transparent.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧪 What I do
+
+- 🧴 Develop sustainable product formulations in R&D environments  
+- ⚙️ Create internal tools using **PowerApps**, **Excel macros**, and **Python**  
+- 📊 Analyze and visualize lab or personal data using **pandas**, **Streamlit**, and **SQL**  
+- 🧠 Continuously learning about tech, automation, and data
+
+---
+
+## 🔧 Projects (more soon)
+
+- 🧷 [GHS Pictogram Tracker](#) – A PowerApps tool to visualize chemical hazard labels (internal use)
+- 💰 [Net Worth Dashboard](#) – Personal finance tracking tool built with PostgreSQL + Streamlit (WIP)
+- ☕ [Coffee Roasting ROI Calculator](#) – Simple model to evaluate cost savings of home roasting
+
+➡️ Visit my site at [mrazzini.github.io](https://mrazzini.github.io)
+
+---
+
+## ☕ Interests
+
+When I’m not building or testing something, you’ll find me:
+
+- Dialing in espresso and experimenting with coffee roasting  
+- Surfing (or dreaming of surf)  
+- Writing and recording music (metalcore/alternative)  
+- Reading or journaling in multiple languages  
+
+---
+
+## 📫 Let's Connect
+
+- ✉️ [Email](mailto:razzini.mattia@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mattiarazzini)
