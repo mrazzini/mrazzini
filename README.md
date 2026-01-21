@@ -1,28 +1,33 @@
 # 👋 Hi, I'm Mattia
 
-**ML/AI Engineer | Python | Computer Vision, NLP, Data Engineering**
+**ML/AI Engineer | Chemical R&D Background**
 
-Based in Milan, Italy. I build AI-powered systems that solve real problems—from automated document processing to intelligent chatbots. Background in Chemical R&D gives me a unique perspective on scientific data challenges.
+Based in Milan, Italy. I build production-grade AI systems for document processing, computer vision, and data extraction. Specialized in bridging organizational knowledge gaps through custom ML and LLM-based architectures.
 
 ---
 
 ## 🛠️ What I Build
 
-- 🤖 **ML Systems**: Computer vision (YOLO), NLP/RAG chatbots, data extraction pipelines
-- 📊 **Data Engineering**: ETL workflows, web scraping, structured data from unstructured sources  
-- 🎯 **Production Tools**: Full-stack applications (Python, Streamlit) serving real users
+- 🤖 **ML/Computer Vision**: YOLOv8, OpenCV, custom model training for object detection  
+- 💬 **NLP & LLMs**: GPT-4, RAG architectures, BM25 retrieval systems
+- 📊 **Data Engineering**: ETL pipelines, web scraping (Selenium), SQL databases (PostgreSQL)
+- 🎯 **Full-Stack Apps**: Python (Flask, Streamlit), Docker, Git
 
-**Tech Stack**: Python, PyTorch, scikit-learn, YOLO, GPT-4, SQL, Streamlit, Docker
+**Core Stack**: Python, PyTorch, scikit-learn, YOLOv8, OpenCV, GPT-4, RAG, BM25, SQL, Streamlit, Docker
 
 ---
 
 ## 📂 Featured Projects
 
 **🔍 GHS Safety Data Extraction System**  
-ML pipeline for automated chemical safety data extraction from MSDS documents. Custom YOLO models for pictogram detection, NLP for hazard statement extraction. Processed 3000+ documents.
+End-to-end ML pipeline for automatic safety pictogram detection and data parsing. Trained custom YOLOv8 models (99%+ accuracy). Processed 3000+ products via automated scraping. Built Streamlit app for real-time extraction and GHS property calculation.
 
-**💬 AI Assistants Suite**  
-RAG-based chatbots using GPT-4 for internal knowledge retrieval. Includes procedure assistant and resource navigator. BM25 retrieval + Azure OpenAI integration.
+*Tech: YOLOv8, Python, Selenium, Computer Vision, Streamlit*
+
+**💬 Internal AI Assistant Suite**  
+Centralized dashboard powered by GPT-4 for internal resource retrieval. Hybrid search: SQLite-indexed RAG for documents + CSV-based contextual engine. Reduced manual search from minutes to seconds.
+
+*Tech: Python, GPT-4, RAG, BM25, SQLite, Streamlit*
 
 ➡️ More at [mrazzini.github.io](https://mrazzini.github.io)
 
@@ -33,7 +38,8 @@ RAG-based chatbots using GPT-4 for internal knowledge retrieval. Includes proced
 When not building ML systems:
 - ☕ Specialty coffee enthusiast  
 - 🏄 Surfing (or dreaming of it)
-- 🎸 Playing/recording music (metalcore/alternative)
+- 🎸 Music production (metalcore/alternative)
+- 🍞 Bread baking experiments
 
 ---
 
