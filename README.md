@@ -33,7 +33,7 @@ Centralized dashboard powered by GPT-4 for internal resource retrieval. Hybrid s
 
 ---
 
-## ☕ Beyond Code
+## 🚀 Beyond Code
 
 When not building ML systems:
 - ☕ Specialty coffee enthusiast  
