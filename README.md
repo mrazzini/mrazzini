@@ -1,42 +1,43 @@
 # 👋 Hi, I'm Mattia
 
-🎨 **Research Chemist | Exploring Data Tools | Building Simple Things**
+**ML/AI Engineer | Python | Computer Vision, NLP, Data Engineering**
 
-I'm a chemist based in Milan, Italy, currently working in product development and lab-scale formulation in the coatings industry. Over the past few years, I've been increasingly drawn to solving problems not just with chemistry, but with **code**, **dashboards**, and **internal tools** that make workflows more efficient and transparent.
-
----
-
-## 🧪 What I do
-
-- 🧴 Develop sustainable product formulations in R&D environments  
-- ⚙️ Create internal tools using **PowerApps**, **Excel macros**, and **Python**  
-- 📊 Analyze and visualize lab or personal data using **pandas**, **Streamlit**, and **SQL**  
-- 🧠 Continuously learning about tech, automation, and data
+Based in Milan, Italy. I build AI-powered systems that solve real problems—from automated document processing to intelligent chatbots. Background in Chemical R&D gives me a unique perspective on scientific data challenges.
 
 ---
 
-## 🔧 Projects (more soon)
-<!--
-- 🧷 [GHS Pictogram Tracker](#) – A PowerApps tool to visualize chemical hazard labels (internal use)
-- 💰 [Net Worth Dashboard](#) – Personal finance tracking tool built with PostgreSQL + Streamlit (WIP)
-- ☕ [Coffee Roasting ROI Calculator](#) – Simple model to evaluate cost savings of home roasting
--->
-➡️ Visit my site at [mrazzini.github.io](https://mrazzini.github.io)
+## 🛠️ What I Build
+
+- 🤖 **ML Systems**: Computer vision (YOLO), NLP/RAG chatbots, data extraction pipelines
+- 📊 **Data Engineering**: ETL workflows, web scraping, structured data from unstructured sources  
+- 🎯 **Production Tools**: Full-stack applications (Python, Streamlit) serving real users
+
+**Tech Stack**: Python, PyTorch, scikit-learn, YOLO, GPT-4, SQL, Streamlit, Docker
 
 ---
 
-## ☕ Interests
+## 📂 Featured Projects
 
-When I’m not building or testing something, you’ll find me:
+**🔍 GHS Safety Data Extraction System**  
+ML pipeline for automated chemical safety data extraction from MSDS documents. Custom YOLO models for pictogram detection, NLP for hazard statement extraction. Processed 3000+ documents.
 
-- Grinding and drinking specialty coffee
-- Surfing (or dreaming of surfing)
-- Playing and recording music (metalcore/alternative)  
-- Playing Zelda on my NS
+**💬 AI Assistants Suite**  
+RAG-based chatbots using GPT-4 for internal knowledge retrieval. Includes procedure assistant and resource navigator. BM25 retrieval + Azure OpenAI integration.
+
+➡️ More at [mrazzini.github.io](https://mrazzini.github.io)
 
 ---
 
-## 📫 Let's Connect
+## ☕ Beyond Code
 
-- ✉️ [Email](mailto:razzini.mattia@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/mattia-razzini-scientist)
+When not building ML systems:
+- ☕ Specialty coffee enthusiast  
+- 🏄 Surfing (or dreaming of it)
+- 🎸 Playing/recording music (metalcore/alternative)
+
+---
+
+## 📫 Connect
+
+- ✉️ [razzini.mattia@gmail.com](mailto:razzini.mattia@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mattiarazzini)
