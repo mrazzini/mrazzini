@@ -29,8 +29,6 @@ Centralized dashboard powered by GPT-4 for internal resource retrieval. Hybrid s
 
 *Tech: Python, GPT-4, RAG, BM25, SQLite, Streamlit*
 
-➡️ More at [mrazzini.github.io](https://mrazzini.github.io)
-
 ---
 
 ## 🚀 Beyond Code
