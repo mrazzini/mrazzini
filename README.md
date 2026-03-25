@@ -10,7 +10,7 @@ a manual workflow that software can fix, I'll find it.
 
 ## What I Build
 
-- **LLM Applications**: LangGraph, LangChain, Claude API, Azure OpenAI, Groq, RAG, prompt engineering
+- **LLM Applications**: LangGraph, LangChain, Claude API, Azure OpenAI, Groq, RAG, prompt engineering, MCP
 - **Computer Vision & ML**: YOLOv8, PaddleOCR, PyTorch, custom model training
 - **Full-Stack**: FastAPI, Next.js, PostgreSQL, Playwright
 - **Deployment**: Docker, AWS, Railway, Vercel, CI/CD (GitHub Actions)
