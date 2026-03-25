@@ -3,14 +3,14 @@
 **Applied AI Engineer - Full-Stack LLM Applications**
 
 Based in Milan. I build and ship production-grade AI tools for people who didn't know 
-they needed them. From chemical safety compliance to coffee recommendations - if there's 
-a manual workflow that software can fix, I'll find it.
+they needed them. From chemical safety compliance to coffee recommendations.
+My motto: *If there's a manual workflow that software can fix, I'll find it.*
 
 ---
 
 ## What I Build
 
-- **LLM Applications**: LangGraph, LangChain, Claude API, Azure OpenAI, Groq, RAG, prompt engineering, MCP
+- **LLM Applications**: LangGraph, LangChain, Claude SDK, Azure OpenAI, Groq, RAG, prompt engineering, MCP
 - **Computer Vision & ML**: YOLOv8, PaddleOCR, PyTorch, custom model training
 - **Full-Stack**: FastAPI, Next.js, PostgreSQL, Playwright
 - **Deployment**: Docker, AWS, Railway, Vercel, CI/CD (GitHub Actions)
