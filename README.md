@@ -1,47 +1,51 @@
-# 👋 Hi, I'm Mattia
+# Hi, I'm Mattia
 
-**ML/AI Engineer | Chemical R&D Background**
+**Applied AI Engineer - Full-Stack LLM Applications**
 
-Based in Milan, Italy. I build production-grade AI systems for document processing, computer vision, and data extraction. Specialized in bridging organizational knowledge gaps through custom ML and LLM-based architectures.
-
----
-
-## 🛠️ What I Build
-
-- 🤖 **ML/Computer Vision**: YOLOv8, OpenCV, custom model training for object detection  
-- 💬 **NLP & LLMs**: GPT-4, RAG architectures, BM25 retrieval systems
-- 📊 **Data Engineering**: ETL pipelines, web scraping (Selenium), SQL databases (PostgreSQL)
-- 🎯 **Full-Stack Apps**: Python (Flask, Streamlit), Docker, Git
-
-**Core Stack**: Python, PyTorch, scikit-learn, YOLOv8, OpenCV, GPT-4, RAG, BM25, SQL, Streamlit, Docker
+Based in Milan. I build and ship production-grade AI tools for people who didn't know 
+they needed them. From chemical safety compliance to coffee recommendations - if there's 
+a manual workflow that software can fix, I'll find it.
 
 ---
 
-## 📂 Featured Projects
+## What I Build
 
-**🔍 GHS Safety Data Extraction System**  
-End-to-end ML pipeline for automatic safety pictogram detection and data parsing. Trained custom YOLOv8 models (99%+ accuracy). Processed 3000+ products via automated scraping. Built Streamlit app for real-time extraction and GHS property calculation.
-
-*Tech: YOLOv8, Python, Selenium, Computer Vision, Streamlit*
-
-**💬 Internal AI Assistant Suite**  
-Centralized dashboard powered by GPT-4 for internal resource retrieval. Hybrid search: SQLite-indexed RAG for documents + CSV-based contextual engine. Reduced manual search from minutes to seconds.
-
-*Tech: Python, GPT-4, RAG, BM25, SQLite, Streamlit*
+- **LLM Applications**: LangGraph, LangChain, Claude API, Azure OpenAI, Groq, RAG, prompt engineering
+- **Computer Vision & ML**: YOLOv8, PaddleOCR, PyTorch, custom model training
+- **Full-Stack**: FastAPI, Next.js, PostgreSQL, Playwright
+- **Deployment**: Docker, AWS, Railway, Vercel, CI/CD (GitHub Actions)
 
 ---
 
-## 🚀 Beyond Code
+## Featured Projects
 
-When not building ML systems:
-- ☕ Specialty coffee enthusiast  
-- 🏄 Surfing (or dreaming of it)
-- 🎸 Music production (metalcore/alternative)
-- 🍞 Bread baking experiments
+**Safety Champion - LLM-Powered Chemical Classification Platform**
+Full-stack web app (FastAPI + Next.js) for chemical safety compliance at PPG Italia, 
+serving 100+ R&D users. Custom YOLOv8 models for pictogram detection, Playwright-based 
+document scraping, PaddleOCR for formula extraction, HITL verification patterns. 
+Built and deployed as a solo developer with zero infrastructure support.
+
+**Fineas - Agentic Personal Finance Dashboard**
+Four-agent system (LangGraph + FastAPI + PostgreSQL) for natural language portfolio 
+updates, Monte Carlo FIRE projections, monitoring, and document ingestion. Deployed on AWS.
+
+**[Coffeeriff](https://coffeeriff-facelift.vercel.app) - AI-Powered Coffee Storefront**
+Recommender quiz matching taste preferences to live Shopify catalog using Groq/Llama 3.3. 
+Next.js on Vercel + FastAPI on Railway with GitHub Actions CI/CD.
+
+**Internal RAG Assistant Suite**
+Hybrid search (semantic + BM25) for internal documents. Reduced search time from minutes 
+to seconds for R&D teams.
 
 ---
 
-## 📫 Connect
+## Beyond Code
 
-- ✉️ [razzini.mattia@gmail.com](mailto:razzini.mattia@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/mattiarazzini)
+Specialty coffee, surfing, music production, bread baking.
+
+---
+
+## Connect
+
+- [razzini.mattia@gmail.com](mailto:razzini.mattia@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/mattiarazzini)
