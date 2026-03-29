@@ -25,7 +25,7 @@ serving 100+ R&D users. Custom YOLOv8 models for pictogram detection, Playwright
 document scraping, PaddleOCR for formula extraction, HITL verification patterns. 
 Built and deployed as a solo developer with zero infrastructure support.
 
-**Fineas - Agentic Personal Finance Dashboard**
+**[Fineas](https://3.69.248.127.nip.io/) - Agentic Personal Finance Dashboard**
 Four-agent system (LangGraph + FastAPI + PostgreSQL) for natural language portfolio 
 updates, Monte Carlo FIRE projections, monitoring, and document ingestion. Deployed on AWS.
 
