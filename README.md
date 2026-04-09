@@ -11,9 +11,9 @@ My motto: *If there's a manual workflow that software can fix, I'll find it.*
 ## What I Build
 
 - **LLM Applications**: LangGraph, LangChain, Claude SDK, Azure OpenAI, Groq, RAG, prompt engineering, MCP
-- **Computer Vision & ML**: YOLOv8, PaddleOCR, PyTorch, custom model training
+- **Computer Vision & ML**: YOLOv8, PaddleOCR, custom model training
 - **Full-Stack**: FastAPI, Next.js, PostgreSQL, Playwright
-- **Deployment**: Docker, AWS, Railway, Vercel, CI/CD (GitHub Actions)
+- **Deployment**: Docker, AWS, Vercel, CI/CD (GitHub Actions)
 
 ---
 
@@ -31,7 +31,7 @@ updates, Monte Carlo FIRE projections, monitoring, and document ingestion. Deplo
 
 **[Coffeeriff](https://coffeeriff-facelift.vercel.app) - AI-Powered Coffee Storefront**
 Recommender quiz matching taste preferences to live Shopify catalog using Groq/Llama 3.3. 
-Next.js on Vercel + FastAPI on Railway with GitHub Actions CI/CD.
+Next.js on Vercel + FastAPI on AWS Lambda with GitHub Actions CI/CD.
 
 **Internal RAG Assistant Suite**
 Hybrid search (semantic + BM25) for internal documents. Reduced search time from minutes 
